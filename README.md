@@ -8,7 +8,7 @@ Apache Kafka is a messaging queue service between microservice
 Microservice1 (produce) ----->  Kafka broker <------ Microservice2 (consume)
 ============================================================================
 
-![image](https://github.com/pavankumar0077/SpringBoot-ApacheKafka/assets/40380941/4d70a6f7-742d-4123-8f98-04f12eb3e2e4)
+![image](https://github.com/pavankumar0077/springboot-kafka-real-world-project/assets/40380941/d53b66f3-d584-4fa5-8150-87c954c419c2)
 
 Apache Kafka
 ============
